@@ -6,12 +6,12 @@
 .titulo{
     text-align: center;
     font-weight: 300;
-    color: rgb(45, 146, 192);
+    color: rgb(236, 205, 136);
     font-size: 40px;
     padding-bottom: 20px;
 }
 .galeria{
-    background-color: rgb(22, 102, 102);
+    background-color: rgb(0, 255, 179);
 }
 .contenedor{
     width: 90%;
@@ -29,11 +29,11 @@ img{
     width: 30%;
     display: block;
     margin-bottom: 15px;
-    box-shadow: 0 0 8px rgb(247, 224, 24);
+    box-shadow: 0 0 8px rgb(218, 158, 203);
 }
 @media screen and (max-width: 480px) {
     .titulo{
-        color: darkred;
+        color: rgb(136, 224, 170);
     }
     .contenedor-galeria{
         display: flex;
